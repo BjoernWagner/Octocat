@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+"git remote add upstream [ssh]" makes it easy to merge changes from two different sources.
+Connecting two repositories is done by creating something called a "remote".
