@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch in Git is in actuality a simple file that contains the 40 character SHA-1 checksum of the commit it points to, branches are cheap to create and destroy.
